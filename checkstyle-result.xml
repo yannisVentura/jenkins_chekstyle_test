@@ -1,5 +1,5 @@
  <checkstyle version="1.4.3">
-  <module name="miniurl_generic/url/">
+  <module name="calculator">
     <property name="charset" value="UTF-8"/>
     <property name="severity" value="warning"/>
     <property name="fileExtensions" value="python, xml"/>
