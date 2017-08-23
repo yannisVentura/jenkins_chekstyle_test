@@ -2,6 +2,6 @@
   <module name="calculator">
     <property name="charset" value="UTF-8"/>
     <property name="severity" value="warning"/>
-    <property name="fileExtensions" value="python, xml"/>
+    <property name="fileExtensions" value="html/>
   </module>
 </checkstyle>
